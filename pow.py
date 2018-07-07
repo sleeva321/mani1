@@ -1,3 +1,2 @@
-s=int(raw_input())
-t=int(raw_input())
+s,t=input(),input()
 print s**t
